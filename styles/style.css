@@ -3,6 +3,7 @@ html {
   font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high */
   font-family: 'Yatra One', system-ui;
 
+  background-color: darkslateblue;
 
 
 }
@@ -26,14 +27,16 @@ p, l {
 
 img[src] {
   height: 300px;
+  border-radius: 100px;
 }
 
 body {
   width: 800px;
   margin: 70px auto;
-  background-color: #3e17d0;
+  background-color: mistyrose ;
   padding: 0 20px 20px 20px;
   border: 5px solid #ff00ca;
+  border-radius: 100px;
 }
 
 
